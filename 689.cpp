@@ -38,7 +38,7 @@ public:
                 maxa=pre[i+k]-pre[i]+pre[l+k]-pre[l]+pre[r+k]-pre[r];
                 ans={l,i,r};
             }
-        } 
+        }  
         return ans;
     }
 };
