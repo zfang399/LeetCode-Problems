@@ -8,6 +8,6 @@ public:
             while(prod>=k) prod/=nums[left++];
             ans+=i-left+1;
         }
-        return ans;
+        return ans; 
     }
 };
