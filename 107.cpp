@@ -27,4 +27,4 @@ private:
         pushl(root->left,depth+1);
         pushl(root->right,depth+1);
     }
-};
+}; 
