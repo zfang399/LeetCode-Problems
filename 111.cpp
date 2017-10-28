@@ -17,4 +17,4 @@ public:
             return minDepth(root->left)+1;
         }else return minDepth(root->right)+1;
     }
-};
+}; 
