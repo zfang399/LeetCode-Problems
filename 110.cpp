@@ -18,4 +18,4 @@ private:
         if(root==NULL) return 0;
         return max(depth(root->left),depth(root->right))+1;
     }
-};
+}; 
