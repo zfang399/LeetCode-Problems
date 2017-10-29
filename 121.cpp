@@ -8,5 +8,5 @@ public:
             if(prices[i]<minbuy) minbuy=prices[i];
         }
         return ans;
-    }
+    } 
 };
