@@ -5,3 +5,4 @@ public:
         return n/5+trailingZeroes(n / 5);
     }
 };
+ 
