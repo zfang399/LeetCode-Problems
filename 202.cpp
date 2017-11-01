@@ -12,6 +12,6 @@ public:
         }
         next+=n*n;
         if(next==1) return true;
-        return isHappy(next);
+        return isHappy(next); 
     }
 };
