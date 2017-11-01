@@ -2,7 +2,7 @@ class Solution {
 public:
     bool isValid(string s) {
         if(s=="") return true;
-        if(s[0]==')' || s[0]=='}' || s[0]==']') return false;
+        if(s[0]==')' || s[0]=='}' || s[0]==']') return false; 
         stack<char> para;
         unordered_map <char,char> match;
         match['(']=')',match['{']='}',match['[']=']';
