@@ -20,5 +20,5 @@ public:
             l2 = l2 ? l2->next : l2;
         }
         return ans.next;
-    }
+    } 
 };
