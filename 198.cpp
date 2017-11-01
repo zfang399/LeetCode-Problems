@@ -11,4 +11,4 @@ public:
         }
         return rob[nums.size()-1];
     }
-};
+}; 
