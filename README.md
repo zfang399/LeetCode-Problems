@@ -1,2 +1,4 @@
-# LeetCode-Problems
-LeetCode accepted codes
+LeetCode-Problems
+==============================
+400+ LeetCode accepted solutions
+------------------------------
