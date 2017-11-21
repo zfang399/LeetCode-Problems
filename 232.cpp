@@ -17,7 +17,7 @@ public:
         out.pop();
         return ret;
     }
-
+ 
     /** Get the front element. */
     int peek() {
         if(out.empty()){
