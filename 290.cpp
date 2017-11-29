@@ -17,7 +17,7 @@ public:
             }else if(match[pattern[p]]!=ins || matchback[ins]!=pattern[p]) return false;
             p++;
         }
-        if(p!=pattern.length()) return false;
+        if(p != pattern.length()) return false;
         return true;
     }
 };
