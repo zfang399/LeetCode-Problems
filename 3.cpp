@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int lengthOfLongestSubstring(string s) {
+    int lengthOfLongestSubstring(string s) { 
         int maxl=-1,front=0;
         int index[150],i;
         memset(index,-1,sizeof(index));
