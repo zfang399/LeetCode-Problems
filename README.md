@@ -1,4 +1,4 @@
 LeetCode-Problems
 ==============================
-400+ LeetCode accepted solutions
+500+ LeetCode accepted solutions
 ------------------------------
